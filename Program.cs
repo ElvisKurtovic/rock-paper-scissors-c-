@@ -91,15 +91,15 @@ namespace rps
                 else if (userInput.Key == ConsoleKey.P && compAct == "Rock")
                 {
                     Console.WriteLine("Computer chose " + compChoice[index]);
-                    System.Console.WriteLine("You lost");
-                    compScore++;
-                    System.Console.WriteLine("You- " + userScore + " Computer- " + compScore);
-                }
-                else if (userInput.Key == ConsoleKey.R && compAct == "Scissors")
-                {
-                    Console.WriteLine("Computer chose " + compChoice[index]);
                     System.Console.WriteLine("You won!");
                     userScore++;
+                    System.Console.WriteLine("You- " + userScore + " Computer- " + compScore);
+                }
+                else if (userInput.Key == ConsoleKey.P && compAct == "Scissors")
+                {
+                    Console.WriteLine("Computer chose " + compChoice[index]);
+                    System.Console.WriteLine("You lost");
+                    compScore++;
                     System.Console.WriteLine("You- " + userScore + " Computer- " + compScore);
                 }
                 else if (userInput.Key == ConsoleKey.S && compAct == "Scissors")
