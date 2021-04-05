@@ -1,0 +1,15 @@
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/rps.deps.json
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/rps.runtimeconfig.json
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/rps.runtimeconfig.dev.json
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/rps.dll
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/ref/rps.dll
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/bin/Debug/net5.0/rps.pdb
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.csprojAssemblyReference.cache
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.AssemblyInfoInputs.cache
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.AssemblyInfo.cs
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.csproj.CoreCompileInputs.cache
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.dll
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/ref/rps.dll
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.pdb
+/Users/elviskurtovic/source/codeworks/dotnet1/rps/obj/Debug/net5.0/rps.genruntimeconfig.cache
